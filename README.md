@@ -1,8 +1,22 @@
 - 👋 Hi, I’m @drjoaoarthur
-- 👀 I’m interested in aprender a profissao de programador/earn the profession of programmer
-- 🌱 I’m currently learning utilizando o Atom e assitindo videos no youtube/using Atom and watching videos on youtube
-- 💞️ I’m looking to collaborate on ...com tudo que puder em troca da experiencia /with everything I can in exchange for the experience
 - 📫 How to reach me ...drjoaoarthur@hotmail.com   +55 11 943003801 whatsapp 
+
+<div align="center">
+  <a href="https://github.com/drjoaoarthur">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drjoaoarthur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
+</div>
+
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+    <a href="https://www.linkedin.com/in/dr-joão-arthur-gomes-31477494/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <!---
 drjoaoarthur/drjoaoarthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
